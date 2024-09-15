@@ -1,5 +1,5 @@
 # CRUD App with React, Redux Toolkit, and React Router v6
-
+## watch project video https://www.linkedin.com/posts/ahmed-hani-elgazar_react-reduxtoolkit-webdevelopment-activity-7238935295545532417-X1Mk?utm_source=share&utm_medium=member_desktop
 ## Overview
 
 This project demonstrates a comprehensive **CRUD (Create, Read, Update, Delete)** application built using modern technologies. It leverages **React**, **Redux Toolkit**, and **React Router v6** to create a robust application for managing a list of posts. The application integrates with **JSON Server** for mock backend functionalities and **JSON Server Auth** for user authentication.
